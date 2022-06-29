@@ -118,11 +118,17 @@ With these books you're covering some basics. Call'em must-reads.
 
 > No Windows admin can survive without the sysinternals tools. This books is the bible on how to use them. It's stuffed with insights in the OS and full of practical guidelines. Must read.
 
+**Windows Security Monitoring**</br>Andrei Miroshnikov</br>Wiley, 2018
+</br><https://www.wiley.com/en-us/Windows+Security+Monitoring%3A+Scenarios+and+Patterns-p-9781119390879>
+
+> A fantastic deep dive into Windows Auditing and Monitoring. Lots of insights and useful examples.
+
 ### Active Directory
 
 **Active Directory Cookbook, 4th Edition**</br>Robbie Allen, Brian Svidergol</br>
 O'Reilly, 2013
 </br><https://www.oreilly.com/library/view/active-directory-cookbook/9781449361419/>
+> Recipes for anything you can think of. Helping the uninspired AD-Chef for years.
 
 ### Windows Internals
 
